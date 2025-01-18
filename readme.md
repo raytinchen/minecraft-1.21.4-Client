@@ -6,7 +6,9 @@
 ## 一、下載 fabric-installer-1.0.1.exe
 
 1. 點擊檔案 fabric-installer-1.0.1.exe
-
+   <p align="center">
+       <img src="https://github.com/user-attachments/assets/c001c013-0bd6-4c6b-8680-f059662aefa7">
+   </p>
 ![image](https://github.com/user-attachments/assets/c001c013-0bd6-4c6b-8680-f059662aefa7)
 
 2. 點擊『Download』進行下載
