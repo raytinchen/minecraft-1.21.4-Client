@@ -20,9 +20,9 @@
 2. 執行 『fabric-installer-1.0.1.exe』
 
 3. 確認以下設定
-  - 版本：1.21.4
-  - 載入程式版本：0.16.10
-  - 預設安裝路徑無須調整
+   - 版本：1.21.4
+   - 載入程式版本：0.16.10
+   - 預設安裝路徑無須調整
 
 ![image](https://github.com/user-attachments/assets/af9c1ab0-4924-4a21-9a56-e61adfe2d83e)
 
