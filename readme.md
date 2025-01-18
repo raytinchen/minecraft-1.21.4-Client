@@ -1,5 +1,5 @@
 
-# 壹、主程式下載、安裝
+# 壹、主程式下載、安裝 
 ## 一、下載 fabric-installer-1.0.1.exe
 
 1. 右鍵另開新視窗[fabric-installer-1.0.1.exe](https://github.com/raytinchen/minecraft-1.21.4-Client/blob/main/fabric-installer-1.0.1.exe)，點擊Download進行下載。
