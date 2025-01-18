@@ -49,5 +49,5 @@
 - 將Minecraft Luncher，點擊 『結束工作』。
 
 <p align="center">
-    <img src="需要補圖">
+    <img src="https://github.com/user-attachments/assets/62cd92eb-326b-4798-b193-e6ea1cbfbfe3">
 </p>
