@@ -5,12 +5,6 @@
 1. 右鍵另開新視窗[fabric-installer-1.0.1.exe](https://github.com/raytinchen/minecraft-1.21.4-Client/blob/main/fabric-installer-1.0.1.exe)，點擊Download進行下載。
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/c001c013-0bd6-4c6b-8680-f059662aefa7">
-</p>
-
-2. 點擊『Download』進行下載
-
-<p align="center">
     <img src="https://github.com/user-attachments/assets/40505aef-9759-4e66-bc4a-9df070a40382">
 </p>
 
