@@ -32,4 +32,4 @@
 
 2. 開啟『下載』，執行AutoDeployment_minecraft.bat。
 
-※ 後續若有更新模組，直接執行AutoDeployment_minecraft.bat即可。
+> 後續若有更新模組，直接執行AutoDeployment_minecraft.bat即可。
