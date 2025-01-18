@@ -11,7 +11,7 @@
     <img src="https://github.com/user-attachments/assets/c001c013-0bd6-4c6b-8680-f059662aefa7">
 </p>
 
-3. 點擊『Download』進行下載
+2. 點擊『Download』進行下載
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/40505aef-9759-4e66-bc4a-9df070a40382">
