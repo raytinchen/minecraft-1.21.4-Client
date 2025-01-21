@@ -46,7 +46,7 @@
 
 - 開啟工作管理員，按下鍵盤M(請注意輸入法)。
 
-- 將Minecraft Luncher，點擊 『結束工作』。
+- 將Minecraft Launcher，點擊 『結束工作』。
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/62cd92eb-326b-4798-b193-e6ea1cbfbfe3">
